@@ -1,0 +1,73 @@
+{
+    "category" : [
+      {
+        "CategoriesName" : "TRENDING",
+        "uri" : "https://images.pexels.com/photos/1709038/pexels-photo-1709038.jpeg?cs=srgb&dl=close-up-photo-of-three-hanging-light-bulbs-1709038.jpg&fm=jpg"
+      },
+      {
+        "CategoriesName" : "VEHICLES",
+        "uri" : "https://wallpapersite.com/images/pages/pic_h/19575.jpg"
+      },
+      {
+        "CategoriesName" : "BOKEH",
+        "uri" : "https://images.unsplash.com/photo-1495050489622-a17b23172ed6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "ANIMALS",
+        "uri" : "https://images.unsplash.com/photo-1496841733162-a88a250a275c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "NATURE",
+        "uri" : "https://images.unsplash.com/photo-1470137430626-983a37b8ea46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "ABSTRACT",
+        "uri" : "https://www.hdwallpapers.net/previews/molecular-structure-739.jpg"
+      },
+      {
+        "CategoriesName" : "MUSIC",
+        "uri" : "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "RAIN",
+        "uri" : "https://images.unsplash.com/photo-1519692933481-e162a57d6721?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "SNOW",
+        "uri" : "https://images.pexels.com/photos/259698/pexels-photo-259698.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      },
+      {
+        "CategoriesName" : "LIGHTS",
+        "uri" : "https://images.pexels.com/photos/2043569/pexels-photo-2043569.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+      },
+      {
+        "CategoriesName" : "LOVE",
+        "uri" : "https://images.unsplash.com/photo-1518568814500-bf0f8d125f46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "FOOD",
+        "uri" : "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "SILHOUETTE",
+        "uri" : "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "SPACE",
+        "uri" : "https://images.unsplash.com/photo-1528722828814-77b9b83aafb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "FIREWORKS",
+        "uri" : "https://images.unsplash.com/photo-1467810563316-b5476525c0f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "OCEAN",
+        "uri" : "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "CategoriesName" : "FLOWERS",
+        "uri" : "https://images.unsplash.com/photo-1533907650686-70576141c030?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+      }
+    ]
+  }
+  
